@@ -5,6 +5,8 @@
 
 <p>The script also generates an interactive map using the <code>folium</code> library to display the location of each Arab country and whether it is supported by OpenAI services. The map is color-coded to distinguish between supported countries (green) and not supported countries (red).</p>
 
+![alt text](map_8Mar2023.png "sample")
+
 <h2>Requirements</h2>
 
 <p>To run this script, you need the following libraries installed:</p>
