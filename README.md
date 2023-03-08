@@ -40,6 +40,7 @@
 	<li><code>openai_locations_map_4_arab_countries.ipynb</code>: The Python script for scraping the OpenAI page, exporting the list of supported countries to a text file, and generating an interactive map.</li>
 	<li><code>openai_supported_countries.txt</code>: A text file containing the list of supported countries for OpenAI services.</li>
 	<li><code>README.md</code>: The README file explaining the script and how to use it.</li>
+	<li><code>map_8Mar2023.png</code>: Last updated OpenAI service availability map picture. (March 8, 2023).</li>
 </ul>
 
 <h2>Credits</h2>
