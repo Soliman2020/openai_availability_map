@@ -22,6 +22,10 @@
 
 <h2>How to use</h2>
 
+<ul>
+	<li> <b>Run the script LIVE on Kaggle: </b><a href="https://www.kaggle.com/code/soliman2020/openai-availability-map"><b>Click HERE!<b></a></li>
+</ul>
+<ul> <li>Or in your PC do the following:</li></ul>
 <ol>
 	<li>Install the required libraries.</li>
 	<li>Install the appropriate driver for your browser.</li>
